@@ -1,1 +1,0 @@
-# pythom_hse_hw3_rep
